@@ -1,0 +1,6 @@
+.*
+!.gitignore
+*.o
+*.elf
+*.bin
+*.vscode/
