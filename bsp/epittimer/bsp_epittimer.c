@@ -21,7 +21,7 @@ Copyright © zuozhongkai Co., Ltd. 1998-2019. All rights reserved.
  */
 void epit1_irqhandler(void)
 { 
-	static unsigned char state = 0;
+	// static unsigned char state = 0;
 
 	// state = !state;
 	// if(EPIT1->SR & (1<<0)) 			/* 判断比较事件发生 */

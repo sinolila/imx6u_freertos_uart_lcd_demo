@@ -4,6 +4,11 @@
         "task.h": "c",
         "string.h": "c",
         "bsp_uart.h": "c",
-        "system_mcimx6y2.h": "c"
+        "system_mcimx6y2.h": "c",
+        "bsp_lcd.h": "c",
+        "in.h": "c",
+        "if_ether.h": "c",
+        "socket.h": "c",
+        "stdlib.h": "c"
     }
 }

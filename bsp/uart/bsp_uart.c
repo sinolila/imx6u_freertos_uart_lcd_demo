@@ -295,7 +295,7 @@ void raise(int sig_nr)
 }
 
 
-void uart_send_string(UART_Type *base, const char *str)
+void uart_send_string(void *base, const char *str)
 {
     while (*str)
     {
